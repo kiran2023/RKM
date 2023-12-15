@@ -19,4 +19,4 @@ It has major filtration features where users can search the products
 9. Selected products can be unchecked/checked and excluded further even after applying discounts and rating
 10. Disable checkboxes of products that are not eligible for the applied discount/rating filtration
 
-Visit👉 https://kiran2023.github.io/RkM
+Visit👉 <a href="https://kiran2023.github.io/RkM" target="_blank"> RK MART </a> 
